@@ -12,11 +12,4 @@ K-means clustering: The chosen characteristics are subsequently utilized as inpu
 Analysis and Interpretation: Following the clustering process, the resulting segments are examined and interpreted to obtain a deeper understanding of customer behavior. This may entail the process of mentally representing the clusters, analyzing the central points of the clusters, and comparing the distinct attributes of each segment.
 
 
-Objective
 
-Data Exploration: Explore the dataset to understand its structure, features, and distribution.
-Data Preprocessing: Preprocess the data by cleaning missing values, normalizing features, and encoding categorical variables if necessary.
-Feature Selection: Select relevant features for segmentation, such as those related to purchasing behavior.
-Model Training: Train the K-means clustering model using the selected features.
-Segmentation: Use the trained model to segment the customer data into clusters based on purchasing behavior.
-Analysis and Interpretation: Analyze the resulting clusters to understand customer segments and their characteristics.
